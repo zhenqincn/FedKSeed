@@ -1,5 +1,7 @@
 # FedKSeed
-<span style="color:red; font-weight:bold;">Considering the planned integration of FedKSeed into [FederatedScope](https://github.com/alibaba/FederatedScope), the official implementation has been moved to [https://github.com/alibaba/FederatedScope/tree/FedKSeed](https://github.com/alibaba/FederatedScope/tree/FedKSeed).</span> 
+**Considering the planned integration of FedKSeed into [FederatedScope](https://github.com/alibaba/FederatedScope), the official implementation has been moved to [https://github.com/alibaba/FederatedScope/tree/FedKSeed](https://github.com/alibaba/FederatedScope/tree/FedKSeed).**
+
+---
 
 Repository [FederatedScope-FedKSeed](https://github.com/alibaba/FederatedScope/tree/FedKSeed) contains the official implementation for the work “**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**”. See more details in our [paper](https://arxiv.org/abs/2312.06353).
 
